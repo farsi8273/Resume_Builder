@@ -58,6 +58,7 @@ If you have any questions or need further assistance, please contact [salman.44.
 Enjoy working with this React project, and feel free to customize it to your specific needs! We welcome your contributions and hope it serves as a valuable resource for your web development endeavors.<br/>
 
 # Live Project Link
+https://resumebuilder-topaz.vercel.app/
 
 <br/>
 
