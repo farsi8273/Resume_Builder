@@ -26,7 +26,7 @@ This project is a web application built using React and a variety of popular lib
 
 # Installation:
 1.Clone the repository:<br/>
-git clone https://github.com/yourusername/your-project.git<br/>
+git clone https:https://github.com/farsi8273/Resume_Builder<br/>
 2.Change directory to the project folder:<br/>
 cd your-project<br/>
 3.Install the required dependencies:<br/>
